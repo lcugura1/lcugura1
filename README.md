@@ -2,7 +2,7 @@
 > whoami
 Leon Čugura
 Software Developer @ Croatia Osiguranje
-Varaždin, Croatia 🇭🇷
+Varaždin, Croatia 
 
 > cat mission.txt
 Building AI-powered solutions.
