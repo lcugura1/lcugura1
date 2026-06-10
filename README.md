@@ -1,1 +1,52 @@
-<img width="754" height="284" alt="ascii-art-text" src="https://github.com/user-attachments/assets/6002dc93-53e2-4565-860f-09de5413aa04" />
+```
+ ('-. .-.   ('-.                                  
+( OO )  / _(  OO)                                 
+,--. ,--.(,------.,--.      ,--.      .-'),-----. 
+|  | |  | |  .---'|  |.-')  |  |.-') ( OO'  .-.  '
+|   .|  | |  |    |  | OO ) |  | OO )/   |  | |  |
+|       |(|  '--. |  |`-' | |  |`-' |\_) |  |\|  |
+|  .-.  | |  .--'(|  '---.'(|  '---.'  \ |  | |  |
+|  | |  | |  `---.|      |  |      |    `'  '-'  '
+`--' `--' `------'`------'  `------'      `-----' 
+```
+
+---
+
+```bash
+> whoami
+Leon Čugura
+Software Developer @ Croatia Osiguranje
+Varaždin, Croatia 🇭🇷
+
+> cat mission.txt
+Building AI-powered solutions.
+Turning real problems into real apps.
+```
+
+---
+
+## Config
+
+```yaml
+languages:
+  - TypeScript
+
+mobile:
+  - React Native
+  - Expo
+
+frontend:
+  - Angular
+
+backend:
+  - Node.js
+  - Fastify
+  - Supabase
+
+tools:
+  - Git
+  - VS Code
+```
+
+---
+
