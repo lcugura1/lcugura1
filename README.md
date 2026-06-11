@@ -9,8 +9,6 @@ Building AI-powered solutions.
 Turning real problems into real apps.
 ```
 
----
-
 ## Config
 
 ```yaml
