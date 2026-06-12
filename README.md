@@ -30,6 +30,3 @@ tools:
   - Git
   - VS Code
 ```
-
----
-
